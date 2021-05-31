@@ -83,3 +83,4 @@ t.test(decastar1,OlympicG1)
 # NOTA: 1.2 + 1.7 + 1.6 = 4.5
 
 diamonds
+table(iris)
